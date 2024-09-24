@@ -1,4 +1,4 @@
-# Client needs 3 bedroom houses retro-fitted with home network. (Clent Personal House) 
+# Client needs 3 bedroom houses retro-fitted with home network. (Client Personal House) 
 
 Client contacts me for service
 
