@@ -17,7 +17,10 @@ Individual houses in Florida infrastructure with Home networking
 -  Fitted rental houses, estimated value at time of 500k and now 1M, with home switch infrastructure and mesh network for no dead spots, including back yard.
     -   [14-15 Bedroom](./CentralFloridaFurniture.md).
     -   [Retro House](./RetroHouse.md).
-
+ 
+   
+```
+```
   
 -  IT solutions for Personal small businesses.
     -  From support, security, storage solutions.
