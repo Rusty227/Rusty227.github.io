@@ -21,7 +21,7 @@ Individual houses in Florida infrastructure with Home networking
 \
 
  * IT solutions for Personal small businesses.
-    *  From support, security, storage solutions.
+    *  From support, security, storage solutions.\
 \
   
 * Worked on [buysmartglobal.com](./https://buysmartglobal.com/buysmart/) Web-page
