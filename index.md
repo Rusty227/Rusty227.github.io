@@ -7,6 +7,7 @@ layout: default
 # Rust Current Project
 
 Security+ certification (75%)
+Build a working SIEM with Microsoft Azur (100%)
 
 
 ## Past Projects
