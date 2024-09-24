@@ -37,8 +37,10 @@ Individual houses in Florida infrastructure with Home networking
 ## Future Projects For Fun & learning
 - Create home Cloud storage for home
 <br/>
+
 - Create a CCTV Vlan for home
 <br/>
+
 - Add remote control over internet to 3d Printer.
   - Done before, i want to use a different approach now 
 
