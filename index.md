@@ -18,6 +18,8 @@ Individual houses in Florida infrastructure with Home networking
     *   [14-15 Bedroom](./CentralFloridaFurniture.md).
     *   [Retro House](./RetroHouse.md).
 <br />
+<br />
+<br />
  * IT solutions for Personal small businesses.
     *  From support, security, storage solutions.
 <br />
