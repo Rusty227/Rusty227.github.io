@@ -16,13 +16,13 @@ Individual houses in Florida infrastructure with Home networking
 
 -  Fitted rental houses, estimated value at time of 500k and now 1M, with home switch infrastructure and mesh network for no dead spots, including back yard.
  -- [14-15 Bedroom](./CentralFloridaFurniture.md).
-  -- [Retro House](./RetroHouse.md).
+ -- [Retro House](./RetroHouse.md).
   
 -  IT solutions for Personal small businesses.
     -  From support, security, storage solutions.
       
--  Worked on buysmartglobal.com Web-page
--   -- [Link to another page](./https://buysmartglobal.com/buysmart/).
+-  Worked on [buysmartglobal.com](./https://buysmartglobal.com/buysmart/) Web-page
+  -- [buysmartglobal.com](./https://buysmartglobal.com/buysmart/).
 
 
 ### Future Projects Business
