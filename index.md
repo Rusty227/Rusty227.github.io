@@ -25,11 +25,11 @@ Individual houses in Florida infrastructure with Home networking
 -  Worked on [buysmartglobal.com](./https://buysmartglobal.com/buysmart/) Web-page
 
 
-
-### Future Projects Business
+## Future Projects Business
 - Contact buysmartglobal.com for why their web-page is in need of maintenance.
+
   
-### Future Projects For Fun & learning
+## Future Projects For Fun & learning
 - Create home Cloud storage for home
   
 - Create a CCTV Vlan for home
