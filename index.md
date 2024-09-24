@@ -19,8 +19,7 @@ Individual houses in Florida infrastructure with Home networking
     -   [Retro House](./RetroHouse.md).
  
    
-```
-```
+
   
 -  IT solutions for Personal small businesses.
     -  From support, security, storage solutions.
