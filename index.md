@@ -21,7 +21,7 @@ Individual houses in florida infastructuring with Home networking
 -  Retrofit older house of 20+ years with gigabit speed ethernet wiring and smart switch network.
 -  Fitted rental houses, estimatend value at time of 500k and now 1M, with home switch infastructure and mesh network for no dead spots, including back yard.
 -  IT solutions for Personal small businesses.
-  -- From support, security, storage solutions.
+  -  From support, security, storage solutions.
 
 
 ```
