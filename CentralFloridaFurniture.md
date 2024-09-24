@@ -25,6 +25,5 @@ Client contacts me for service
 
 - Inform client for job completion and about their warranty if something would have failed.
 
- <\br>
-
+<br/>
 [Back To Index](./index.md) Web-page
