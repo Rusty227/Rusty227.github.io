@@ -25,7 +25,7 @@ Individual houses in Florida infrastructure with Home networking
     *  From support, security, storage solutions.   
 <br/>
   
-* Worked on [buysmartglobal.com](./https://buysmartglobal.com/buysmart/) Web-page
+* Worked on [buysmartglobal.com](https://buysmartglobal.com/buysmart/) Web-page
 
 
 ## Future Projects Business
