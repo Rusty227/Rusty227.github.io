@@ -12,17 +12,17 @@ Security+ certification (75%)
 ## Past Projects
 
 Individual houses in Florida infrastructure with Home networking
-  Retrofit older house of 20+ years with gigabit speed Ethernet wiring and smart switch network.
+  -Retrofit older house of 20+ years with gigabit speed Ethernet wiring and smart switch network.
 
-  Fitted rental houses, estimated value at time of 500k and now 1M, with home switch infrastructure and mesh network for no dead spots, including back yard.
+  -Fitted rental houses, estimated value at time of 500k and now 1M, with home switch infrastructure and mesh network for no dead spots, including back yard.
     -   [14-15 Bedroom](./CentralFloridaFurniture.md).
     -   [Retro House](./RetroHouse.md).
 
  
-  IT solutions for Personal small businesses.
+ - IT solutions for Personal small businesses.
     -  From support, security, storage solutions.
       
-  Worked on [buysmartglobal.com](./https://buysmartglobal.com/buysmart/) Web-page
+ - Worked on [buysmartglobal.com](./https://buysmartglobal.com/buysmart/) Web-page
 
 
 ## Future Projects Business
@@ -30,11 +30,11 @@ Individual houses in Florida infrastructure with Home networking
 
   
 ## Future Projects For Fun & learning
- Create home Cloud storage for home
+- Create home Cloud storage for home
   
- Create a CCTV Vlan for home
+- Create a CCTV Vlan for home
   
- Add remote control over internet to 3d Printer.
+- Add remote control over internet to 3d Printer.
   - Done before, i want to use a different approach now 
 
 
